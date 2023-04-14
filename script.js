@@ -1,2 +1,2 @@
 
-let yourArray = ["hello", 42, true, null, "world"];
+let yourArray = ["hello world", 42, true, null, "world"];
