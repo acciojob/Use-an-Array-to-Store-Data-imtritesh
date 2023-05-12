@@ -5,3 +5,5 @@ for (let index = 0; index < yourArray.length; index++) {
 	li.textContent = yourArray[index];
 	body.append(li);
 }
+
+module.exports = app;
